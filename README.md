@@ -1,1 +1,1 @@
-This is a quantum algorithm that solves a 2x2 sudoku
+Used IBM's qiskit API to solve sudoku with linear speed up
